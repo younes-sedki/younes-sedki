@@ -56,7 +56,7 @@
   <a href="https://gitlab.com/younes-sedki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&style=for-the-badge" height="35" alt="GitLab" />
   </a>
-  <a href="https://younes-sedki.github.io/" target="_blank">
+  <a href="https://www.sedkiy.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="Portfolio" />
   </a>
   <a href="https://github.com/younes-sedki?tab=followers" target="_blank">
