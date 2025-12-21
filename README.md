@@ -49,7 +49,7 @@
   <a href="https://linkedin.com/in/younes-sedki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:younes.sedki@outlook.com" target="_blank">
+  <a href="mailto:younes_sedki@hotmail.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
   </a>
   <a href="https://gitlab.com/younes-sedki" target="_blank">
