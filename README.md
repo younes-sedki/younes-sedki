@@ -5,14 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younes-sedki&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=younes-sedki&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younes-sedki&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
