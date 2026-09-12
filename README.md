@@ -27,9 +27,6 @@
 
 ---
 
-### About
-I am a full-stack developer focused on building scalable web architectures and native Android applications. My day-to-day involves designing RESTful APIs, interactive web interfaces, and offline-capable mobile experiences using modern tools and clean architecture principles.
-
 ### Technologies
 
 **Languages**
