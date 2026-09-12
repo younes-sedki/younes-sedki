@@ -77,9 +77,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=younes-sedki&show_icons=true&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=younes-sedki&show_icons=true&theme=default&hide_border=true">
-    <img alt="Younes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=younes-sedki&show_icons=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=default">
+    <img alt="Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=tokyonight">
   </picture>
   <br><br>
   <img src="https://raw.githubusercontent.com/younes-sedki/younes-sedki/output/snake.svg" alt="Snake animation" />
