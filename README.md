@@ -73,6 +73,18 @@
 
 ---
 
+### Coding Activity
+
+<div align="center">
+
+<!--WAKATIME:START-->
+<img src="https://img.shields.io/badge/Coding%20Time-8h%2024m-blue" alt="Coding time (last 7 days)" />
+<!--WAKATIME:END-->
+
+</div>
+
+---
+
 ### Metrics & Activity
 
 <div align="center">
