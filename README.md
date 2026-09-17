@@ -78,7 +78,7 @@
 <div align="center">
 
 <!--WAKATIME:START-->
-<img src="https://img.shields.io/badge/Coding%20Time-3h%205m-blue" alt="Coding time (last 7 days)" />
+<img src="https://img.shields.io/badge/Coding%20Time-3h%2026m-blue" alt="Coding time (last 7 days)" />
 <!--WAKATIME:END-->
 
 </div>
