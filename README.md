@@ -70,29 +70,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
-
----
-
-### Coding Activity
-
-<div align="center">
-
-<!--WAKATIME:START-->
-<img src="https://img.shields.io/badge/Coding%20Time-3h%2026m-blue" alt="Coding time (last 7 days)" />
-<!--WAKATIME:END-->
-
-</div>
-
----
-
-### Metrics & Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=default">
-    <img alt="Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younes-sedki&theme=tokyonight">
-  </picture>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/younes-sedki/younes-sedki/output/snake.svg" alt="Snake animation" />
-</div>
